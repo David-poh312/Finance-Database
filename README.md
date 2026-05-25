@@ -4,6 +4,7 @@ This repository contains notebooks and code for building and linking major finan
 
 ## Completed: 
 - CRSP, Compustat, CCM, replicating FF3 
+- Link CRSP, IBES, and Compustat
 
 ## To do: 
-- Link CRSP, IBES, and Refinitv
+- Link IBES and Refintiv
