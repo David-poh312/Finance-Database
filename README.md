@@ -7,4 +7,4 @@ This repository contains notebooks and code for building and linking major finan
 - Link CRSP, IBES, and Compustat
 
 ## To do: 
-- Link IBES and Refintiv
+- Link Streetevents with Compustat/CRSP
